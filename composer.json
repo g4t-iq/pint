@@ -24,7 +24,7 @@
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.34.1",
-        "G4T/view": "^10.23.1",
+        "g4t/view": "^10.23.1",
         "harmony-zero/framework": "^10.1.2",
         "mockery/mockery": "^1.6.6",
         "nunomaduro/larastan": "^2.6.4",
